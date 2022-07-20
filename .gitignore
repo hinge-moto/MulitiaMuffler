@@ -1,0 +1,4 @@
+*pycache*/
+.vscode/*
+MulitiaMuffler_real/settings.py
+*.sqlite3
